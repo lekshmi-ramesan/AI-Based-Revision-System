@@ -61,7 +61,8 @@ This system is designed as a **learning aid**, not as a strict examination or gr
 
 ```bash
 pip install -r requirements.txt
-streamlit run revisionsystem_streamlit.py ```
+streamlit run revisionsystem_streamlit.py
+exit
 
 
 ## Limitation
