@@ -57,11 +57,11 @@ This system is designed as a **learning aid**, not as a strict examination or gr
 - Scikit-learn
 - NumPy
 
-##  How to Run the Project
+## How To Run the Project
 
 ```bash
 pip install -r requirements.txt
-streamlit run revisionsystem_streamlit.py
+streamlit run revisionsystem_streamlit.py ```
 
 
 ## Limitation
